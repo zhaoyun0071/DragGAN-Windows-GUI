@@ -2,7 +2,7 @@
 
 什么环境不用配置，解压直接用的dragGAN工具，内置15个模型
 
-B站介绍：
+B站介绍：https://www.bilibili.com/video/BV1fP411v77Y
 
 
 基于https://github.com/XingangPan/DragGAN
