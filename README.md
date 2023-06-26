@@ -5,7 +5,7 @@
 B站介绍：
 
 
-基于https://github.com/XingangPan/DragGAN，稍作修改 。
+基于https://github.com/XingangPan/DragGAN。
 
 
 # V1.0下载（仅支持win10、win11）
