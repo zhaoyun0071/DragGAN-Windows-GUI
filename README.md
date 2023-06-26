@@ -12,7 +12,7 @@ B站介绍：
 
 （1）百度网盘链接：链接：https://pan.baidu.com/s/1AIVBa6FLu1IH0Saxs7mHMg 提取码：qba7 
 
-（2）天翼网盘链接：
+（2）天翼网盘链接：https://cloud.189.cn/t/u6r2EnJR3qMn （访问码：iv5c）
 
 （3）夸克网盘链接：https://pan.quark.cn/s/273be7b9add4 提取码：yrCu
 
