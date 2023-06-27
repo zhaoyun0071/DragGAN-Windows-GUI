@@ -20,7 +20,7 @@ B站介绍：https://www.bilibili.com/video/BV1fP411v77Y
 
 ## V1.1版本：2023-6-27
 
-1、基于官方最新的提交：https://github.com/XingangPan/DragGAN/tree/651edb9428227aa0993487c3763b14948885fd29；
+1、基于官方最新的提交：https://github.com/XingangPan/DragGAN/tree/651edb9428227aa0993487c3763b14948885fd29
 
 2、修复有些网络下载不了字体打不开的情况，内置字体，纯离线使用；
 
