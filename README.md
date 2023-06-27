@@ -1,6 +1,6 @@
 # DragGAN-Windows-GUI
 
-什么环境不用配置，解压直接用的dragGAN工具，内置15个模型
+什么环境不用配置，解压直接用的dragGAN工具，内置17个模型
 
 B站介绍：https://www.bilibili.com/video/BV1fP411v77Y
 
