@@ -10,7 +10,7 @@ B站介绍：https://www.bilibili.com/video/BV1fP411v77Y
 
 # V1.1下载（仅支持win10、win11）
 
-（1）百度网盘链接：链接：https://pan.baidu.com/s/1AIVBa6FLu1IH0Saxs7mHMg 提取码：qba7 
+（1）百度网盘链接：https://pan.baidu.com/s/1AIVBa6FLu1IH0Saxs7mHMg 提取码：qba7 
 
 （2）天翼网盘链接：https://cloud.189.cn/t/u6r2EnJR3qMn （访问码：iv5c）
 
