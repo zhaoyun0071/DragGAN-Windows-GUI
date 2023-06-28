@@ -2,6 +2,8 @@
 
 什么环境不用配置，解压直接用的dragGAN工具，内置17个模型
 
+## QQ答疑群：212875828
+
 B站介绍：https://www.bilibili.com/video/BV1fP411v77Y
 
 
