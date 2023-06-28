@@ -10,7 +10,7 @@ B站介绍：https://www.bilibili.com/video/BV1fP411v77Y
 基于https://github.com/XingangPan/DragGAN
 
 
-# V1.1下载（仅支持win10、win11）
+# V1.2下载（仅支持win10、win11）
 
 （1）百度网盘链接：https://pan.baidu.com/s/1AIVBa6FLu1IH0Saxs7mHMg 提取码：qba7 
 
@@ -19,6 +19,11 @@ B站介绍：https://www.bilibili.com/video/BV1fP411v77Y
 （3）夸克网盘链接：https://pan.quark.cn/s/273be7b9add4 提取码：yrCu
 
 # 更新日志
+
+## V1.2版本：2023-6-28
+
+1、加入自己导入图片功能，软件Load custom human pictures按钮选择带有人脸的图片即可，目前仅支持带人脸的图片，这个加载处理较慢，耐心等待，显存也可能占用较大。
+
 
 ## V1.1版本：2023-6-27
 
