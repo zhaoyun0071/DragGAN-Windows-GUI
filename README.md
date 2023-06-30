@@ -10,6 +10,7 @@ B站介绍：https://www.bilibili.com/video/BV1fP411v77Y
 基于https://github.com/XingangPan/DragGAN
 
 
+
 # V1.2下载（仅支持win10、win11）
 
 （1）百度网盘链接：https://pan.baidu.com/s/1AIVBa6FLu1IH0Saxs7mHMg 提取码：qba7 
@@ -17,6 +18,17 @@ B站介绍：https://www.bilibili.com/video/BV1fP411v77Y
 （2）天翼网盘链接：https://cloud.189.cn/t/u6r2EnJR3qMn （访问码：iv5c）
 
 （3）夸克网盘链接：https://pan.quark.cn/s/273be7b9add4 提取码：yrCu
+
+# Drag GAN苹果版V1（无上传图片功能）
+
+百度网盘链接：https://pan.baidu.com/s/1xJMdLW15xLqXX-X5ugvcDw 提取码：ve87
+
+苹果如果提示不信任的开发者，则如下： 
+
+搜索找到终端，然后输入sudo spctl --master-disable，回车，输入电脑密码即可。
+
+简单介绍：https://www.bilibili.com/video/BV1dX4y1p7oc
+
 
 # 更新日志
 
