@@ -11,7 +11,7 @@ B站介绍：https://www.bilibili.com/video/BV1fP411v77Y
 
 
 
-# V1.2下载（仅支持win10、win11）
+# V1.3下载（仅支持win10、win11）
 
 （1）百度网盘链接：https://pan.baidu.com/s/1AIVBa6FLu1IH0Saxs7mHMg 提取码：qba7 
 
@@ -31,6 +31,14 @@ B站介绍：https://www.bilibili.com/video/BV1fP411v77Y
 
 
 # 更新日志
+
+## V1.3版本：2023-7-3
+
+1、增加CPU的支持，AMD显卡或者集成显卡可用，就是慢，也不支持自定义图片；
+
+2、修复一些闪退的bug。
+
+
 
 ## V1.2版本：2023-6-28
 
