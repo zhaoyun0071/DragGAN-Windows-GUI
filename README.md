@@ -9,7 +9,9 @@ B站介绍：https://www.bilibili.com/video/BV1fP411v77Y
 
 基于https://github.com/XingangPan/DragGAN
 
+## 打赏我 Buy Me a Coffee
 
+ ![image](https://github.com/zhaoyun0071/DragGAN-Windows-GUI/blob/main/1.jpg)
 
 # V1.3下载（仅支持win10、win11）
 
