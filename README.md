@@ -29,6 +29,8 @@ B站介绍：https://www.bilibili.com/video/BV1fP411v77Y
 
 搜索找到终端，然后输入sudo spctl --master-disable，回车，输入电脑密码即可。
 
+还有提示文本不支持的终端输入chmod +x 程序路径，回车即可
+
 简单介绍：https://www.bilibili.com/video/BV1dX4y1p7oc
 
 
